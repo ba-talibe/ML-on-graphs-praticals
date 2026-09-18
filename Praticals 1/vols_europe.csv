@@ -1,0 +1,16 @@
+source,target,airline,duration_min,distance_km
+CDG,LHR,Air France,75,348
+LHR,CDG,British Airways,80,348
+CDG,JFK,Air France,490,5835
+JFK,CDG,Delta Air Lines,440,5835
+ORY,NCE,EasyJet,85,675
+NCE,ORY,EasyJet,90,675
+CDG,FRA,Lufthansa,75,450
+FRA,MAD,Lufthansa,165,1380
+MAD,BCN,Iberia,75,505
+BCN,ORY,Vueling,110,830
+LHR,JFK,British Airways,475,5540
+FRA,JFK,Singapore Airlines,530,6200
+CDG,LYS,Air France,60,390
+NCE,LHR,British Airways,125,1030
+MAD,CDG,Iberia,125,1030
